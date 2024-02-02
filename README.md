@@ -8,19 +8,22 @@
 - 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nourin-awad-942843257#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nourin-awad-942843257#gh-dark-mode-only)
+[LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/nourin-awad-942843257#gh-light-mode-only)
+[LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nourin-awad-942843257#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nourinawadd#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nourinawadd#gh-dark-mode-only)
+[Instagram](./img/instagram-light.svg)](https://www.instagram.com/nourinawadd#gh-light-mode-only)
+[Instagram](./img/instagram-dark.svg)](https://www.instagram.com/nourinawadd#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/on_tsukii#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/on_tsukii#gh-dark-mode-only)
+[Twitter](./img/twitter-light.svg)](https://twitter.com/on_tsukii#gh-light-mode-only)
+[Twitter](./img/twitter-dark.svg)](https://twitter.com/on_tsukii#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Tech Stack:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 
 <br />
