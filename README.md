@@ -1,5 +1,5 @@
 # Hi there, I'm Nourin! 👋 
-
+[![Linkedin Badge](https://img.shields.io/badge/-NourinAwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourin-awad-942843257/)](https://www.linkedin.com/in/nourin-awad-942843257/) [![Instagram Badge](https://img.shields.io/badge/-@nourinawadd-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.instagram.com/nourinawadd/)](https://www.instagram.com/nourinawadd/) 
 ## I study Computer Engineering, and am committed to learning a bit of everything.
 
 - 🌱 I’m currently learning Object-Oriented JavaScript, Embedded Systems, and Wed Development Basics.
