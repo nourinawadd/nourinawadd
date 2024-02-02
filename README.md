@@ -1,22 +1,23 @@
 # Hi there, I'm Nourin!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 [![Linkedin Badge](https://img.shields.io/badge/-NourinAwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourin-awad-942843257/)](https://www.linkedin.com/in/nourin-awad-942843257/) [![Instagram Badge](https://img.shields.io/badge/-@nourinawadd-c23584?style=flat-square&labelColor=c23584&logo=instagram&logoColor=white&link=https://www.instagram.com/nourinawadd/)](https://www.instagram.com/nourinawadd/) 
+
 ## I study Computer Engineering, and am committed to learning a bit of everything.
 
 - 😄 she/her | 18 years old | based in Mansoura, Egypt
 - 🌱 I’m currently learning Object-Oriented JavaScript, Embedded Systems, and Wed Development Basics.
 - 🥅 2024 Goal: Contribute everyday on GitHub.
 - ⚡ Fun fact: I love video games & hope to make my own in the future!
-  
-### Tech Stack:
 
-<img align="left" alt="Visual Studio Code" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="JavaScript" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Python" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Arduino" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Photoshop" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Anaconda" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Stack)](https://git.io/typing-svg)
+
+<img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Anaconda" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
