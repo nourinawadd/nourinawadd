@@ -1,5 +1,5 @@
 # Hi there, I'm Nourin!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
-[![Linkedin Badge](https://img.shields.io/badge/-NourinAwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourin-awad-942843257/)](https://www.linkedin.com/in/nourin-awad-942843257/) [![Instagram Badge](https://img.shields.io/badge/-@nourinawadd-c23584?style=flat-square&labelColor=c23584&logo=instagram&logoColor=white&link=https://www.instagram.com/nourinawadd/)](https://www.instagram.com/nourinawadd/) 
+[![Linkedin Badge](https://img.shields.io/badge/-NourinAwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourin-awad-942843257/)](https://www.linkedin.com/in/nourinawad/) [![Instagram Badge](https://img.shields.io/badge/-@nourinawadd-c23584?style=flat-square&labelColor=c23584&logo=instagram&logoColor=white&link=https://www.instagram.com/nourinawadd/)](https://www.instagram.com/nourinawadd/) 
 
 ## I study Computer Engineering, and am committed to learning a bit of everything.
 
