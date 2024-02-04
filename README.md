@@ -20,8 +20,7 @@
 <img align="left" alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Anaconda" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unreal Engine" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="50px" src="unity-svgrepo-com.svg" style="padding-right:10px;" />
 
 <br />
 <br />
