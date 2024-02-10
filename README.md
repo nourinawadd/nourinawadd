@@ -5,7 +5,7 @@
 
 - 😄 18 years old | based in Mansoura, Egypt.
 - 🌱 I’m currently learning Responsive Web Design, Object-Oriented JavaScript, and Embedded Systems.
-- 🥅 2024 Goal: Contribute everyday on GitHub.
+- 🥅 2024 Goal: Contribute more on GitHub.
 - ⚡ Fun fact: I love video games & hope to make my own in the future!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Stack)](https://git.io/typing-svg)
