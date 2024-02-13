@@ -4,7 +4,7 @@
 ## I study Computer Engineering, and am committed to learning a bit of everything.
 
 - 😄 18 years old | based in Mansoura, Egypt.
-- 🌱 I’m currently learning Responsive Web Design, Object-Oriented JavaScript, and Embedded Systems.
+- 🌱 I’m currently learning C#, Object-Oriented JavaScript, and Embedded Systems.
 - 🥅 2024 Goal: Contribute more on GitHub.
 - ⚡ Fun fact: I love video games & hope to make my own in the future!
 
