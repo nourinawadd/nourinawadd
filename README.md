@@ -4,7 +4,7 @@
 ## I study Computer Engineering, and am committed to learning a bit of everything.
 
 - 😄 18 years old | based in Mansoura, Egypt.
-- 🌱 I’m currently learning C#, Object-Oriented JavaScript, and Embedded Systems.
+- 🌱 I’m currently learning Backend & Game Development
 - ⚡ Fun fact: I love video games & hope to make my own in the future!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Stack)](https://git.io/typing-svg)
