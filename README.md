@@ -34,5 +34,5 @@
 <br />
 <br />
 
-# GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nourinawadd&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourinawadd&hide_border=true&layout=compact&theme=dark" align="left" width=60%)/>
+
