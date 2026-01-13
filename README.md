@@ -3,7 +3,7 @@
 
 ## I study Computer Engineering, and am committed to learning a bit of everything.
 
-- 😄 19 years old | based in Mansoura, Egypt.
+- 😄 20 years old | based in Mansoura, Egypt.
 - 🌱 I’m currently learning Backend & Game Development
 - ⚡ Fun fact: I love video games & hope to make my own in the future!
 
