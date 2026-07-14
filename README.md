@@ -1,24 +1,28 @@
-# Hi there, I'm Nourin!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
-[![Linkedin Badge](https://img.shields.io/badge/-NourinAwad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourin-awad-942843257/)](https://www.linkedin.com/in/nourinawad/)
+# Hi, I'm Nourin Awad
 
-## I study Computer Engineering, and am committed to learning a bit of everything.
+software engineer based in egypt. i move across web, apis, embedded systems, and game dev depending on what a project needs.
 
-- 😄 20 years old | based in Mansoura, Egypt.
-- 🌱 I’m currently learning Backend & Game Development
-- ⚡ Fun fact: I love video games & hope to make my own in the future!
+## ✦ about
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Stack)](https://git.io/typing-svg)
-  
-<div align="left">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+- full stack across node/express/mongo and .net/sql server
+- also works across embedded systems, game dev, and graphic design
+- outside of work, i build personal projects where code and creativity mix
+
+## ✦ stack
+
+javascript · typescript · react · angular · node.js · express (mern/mean) · .net · mongodb · sql server · godot · unity · arduino
+
+## ✦ projects
+
+- **[anchor](https://anchor-iesq.onrender.com/)** — focus app with nfc check-ins, screen time blocking, and ai insights · react native · node · mongodb
+- **[ssh portfolio](http://nourin.is-a.dev)** — terminal portfolio served over ssh · go · bubble tea · wish
+- **[tether note](https://tethernote.vercel.app/)** — schedules notes to your future self via cron-based delivery · node · mongodb · react
+- **[astracipher](https://sifrstudios.itch.io/astracipher)** — story-driven platformer on dark-web awareness · godot
+
+full list → [github.com/nourinawadd](https://github.com/nourinawadd)
+
+## ✦ contact
+
+reach me at [nourinawad@gmail.com](mailto:nourinawad@gmail.com)
+
+[github](https://github.com/nourinawadd) ✦ [linkedin](https://linkedin.com/in/nourinawad) ✦ [nourin.is-a.dev](http://nourin.is-a.dev) (coming soon)
