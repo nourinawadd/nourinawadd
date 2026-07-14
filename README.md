@@ -1,7 +1,3 @@
-# Hi, I'm Nourin Awad
-
-software engineer based in egypt. i move across web, apis, embedded systems, and game dev depending on what a project needs.
-
 ## ✦ about
 
 - full stack across node/express/mongo and .net/sql server
@@ -19,7 +15,6 @@ javascript · typescript · react · angular · node.js · express (mern/mean) �
 - **[tether note](https://tethernote.vercel.app/)** — schedules notes to your future self via cron-based delivery · node · mongodb · react
 - **[astracipher](https://sifrstudios.itch.io/astracipher)** — story-driven platformer on dark-web awareness · godot
 
-full list → [github.com/nourinawadd](https://github.com/nourinawadd)
 
 ## ✦ contact
 
