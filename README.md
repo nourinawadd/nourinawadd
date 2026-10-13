@@ -1,7 +1,7 @@
 ## ✦ about
 
 - full stack engineer working across Node, Express, MongoDB, .NET, and SQL Server
-- i also build with embedded systems, game development, and graphic design
+- i also build with game development, embedded systems, and graphic design
 - outside of work, i make personal projects where technical problem-solving meets creative expression
 
 ## ✦ stack
@@ -23,7 +23,7 @@
 
 - **[anchor](https://anchor-iesq.onrender.com/)**: focus app with NFC check-ins, screen time blocking, and AI insights · React Native · Node · MongoDB
 - **[nourin-drive](https://nourin.is-a.dev/)**: personal portfolio as an Amiga Workbench desktop · Next.js · React · Node · MongoDB
-- **[ssh portfolio](http://nourin.is-a.dev)**: terminal portfolio served over SSH · Go · Bubble Tea · Wish
+- **[ssh portfolio](http://nourin.is-a.dev/terminal)**: terminal portfolio served over SSH · Go · Bubble Tea · Wish
 - **[tether note](https://tethernote.vercel.app/)**: schedules notes to your future self via cron-based delivery · Node · MongoDB · React
 - **[HOLD](https://hold.nourin.me/)**: wishlist that tracks how long you wait before buying · .NET 10 · Blazor Server · EF Core · PostgreSQL
 
