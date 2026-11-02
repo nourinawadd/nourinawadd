@@ -21,15 +21,16 @@
 
 ## ✦ projects
 
+<img src="koi/koi.gif" width="250" align="right" alt="my koi" />
+
 - **[anchor](https://anchor-iesq.onrender.com/)**: focus app with NFC check-ins, screen time blocking, and AI insights · React Native · Node · MongoDB
 - **[nourin-drive](https://nourin.is-a.dev/)**: personal portfolio as an Amiga Workbench desktop · Next.js · React · Node · MongoDB
 - **[ssh portfolio](http://nourin.is-a.dev/terminal)**: terminal portfolio served over SSH · Go · Bubble Tea · Wish
 - **[tether note](https://tethernote.vercel.app/)**: schedules notes to your future self via cron-based delivery · Node · MongoDB · React
 - **[HOLD](https://hold.nourin.me/)**: wishlist that tracks how long you wait before buying · .NET 10 · Blazor Server · EF Core · PostgreSQL
+- **[café websites](https://services.nourin.me)**: bilingual Arabic/English storefront for my web design service for cafés in Egypt · Next.js · TypeScript · Tailwind
 
 ## ✦ contact
-
-<img src="koi/koi.gif" width="256" align="right" alt="my koi" />
 
 reach me at [nourinawad@gmail.com](mailto:nourinawad@gmail.com)
 
