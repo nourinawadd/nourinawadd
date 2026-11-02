@@ -29,6 +29,8 @@
 
 ## ✦ contact
 
+<img src="koi/koi.gif" width="256" align="right" alt="my koi" />
+
 reach me at [nourinawad@gmail.com](mailto:nourinawad@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nourinawad)
